@@ -1,1 +1,1 @@
-document.getElementById('pdf-viewer').src = 'main/.pdf';
+document.getElementById('pdf-viewer').src = 'main/cat.jpg';
